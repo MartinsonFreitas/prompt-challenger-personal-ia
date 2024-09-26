@@ -121,3 +121,80 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+
+Com base nos conhecimentos adquiridos durante o curso e na proposta acima, fiz o seguinte:
+1. Copiei toda a regra definida aqui no desafio para um documento no Word e o salvei em PDF.
+2. Utilizei o chatGPT para me auxiliar no desafio e passei o seguinte prompt abaixo:
+    **Você disse:** Olá Chat!
+    **O ChatGPT disse:** Oi, Martinson! Como está?
+   
+    **Você disse:** Bem obrigado! Analise o documento anexo...
+    **O ChatGPT disse:** Por favor, envie o documento para que eu possa analisá-lo.
+   
+    **Você disse:** Desafio Prompts IAs Generativas.pdf   
+    **O ChatGPT disse:** O documento trata de um desafio para criar um assistente de personal trainer por meio de prompts de IA generativas. O           objetivo é desenvolver um prompt que personalize o treino ideal baseado em três fatores principais:
+
+    Biotipo Corporal: Classificação em Ectomorfo, Mesomorfo ou Endomorfo.
+    Dias Disponíveis para Treino: Variedade de treinos recomendados de acordo com a frequência semanal (Full Body, ABC, ABCDE).
+    Tipo de Exercício Preferido: Funcional, Maquinário, Peso Livre, Cardio, ou HIIT.
+
+    O projeto tem foco nas boas práticas de prompt engineering, visando um sistema que gere um plano de treino personalizado a partir das                características do usuário​.
+
+    Se precisar de algum detalhe específico, é só avisar!
+   
+    **Você disse:** A partir das regras disponíveis no documento, monte uma rotina de treinos para uma pessoa que tenha o Biotipo Endomorfo, 3 dias      de treinos disponíveis e com exercícios do tipo Funcional, Cardio e HIIT...
+
+    **O ChatGPT disse:** Com base nas regras do documento, aqui está uma rotina de treinos personalizada para uma pessoa com biotipo endomorfo, que      tem 3 dias de treino disponíveis e prefere exercícios funcionais, cardio e HIIT:
+   
+    - Perfil: Biotipo: Endomorfo (dificuldade para perder peso, tendência a acumular gordura).
+    - Dias de treino: 3 dias por semana.
+    - Tipos de treino preferido: Funcional, Cardio, HIIT.
+
+Rotina de Treinos:
+Dia 1 - Funcional (Foco no Corpo Todo):
+    Aquecimento:
+        5-10 minutos de polichinelos ou corrida leve.
+    Treino Funcional (3 séries de 12-15 repetições):
+        Agachamento com peso corporal.
+        Flexões de braço (adaptar com joelhos no chão, se necessário).
+        Afundos (lunges).
+        Burpees (movimento completo).
+        Prancha isométrica (30-45 segundos).
+    Cardio pós-treino:
+        10-15 minutos de corrida leve ou bicicleta.
+
+Dia 2 - Cardio e HIIT (Foco em queima de gordura e resistência):
+    Aquecimento:
+        5-10 minutos de caminhada rápida ou trote leve.
+    Treino HIIT (8 séries de 20 segundos de esforço máximo, 10 segundos de descanso):
+        Corrida em alta intensidade ou sprint.
+        Mountain Climbers (escalada cruzada no chão).
+        Salto em caixote ou banco (box jumps).
+        Corrida no lugar com elevação de joelhos (high knees).
+    Cool down (desaceleração):
+        5-10 minutos de caminhada ou alongamento leve.
+
+Dia 3 - Funcional e Cardio (Foco em força e resistência cardiovascular):
+    Aquecimento:
+        5 minutos de corda ou caminhada acelerada.
+    Treino Funcional (circuito de 3 séries):
+        Kettlebell swings (pode substituir com um halter se necessário) – 12 repetições.
+        Flexão e rotação (flexão seguida de rotação do tronco) – 12 repetições.
+        Abdominal bicicleta – 15 repetições por lado.
+        Ponte glútea – 12-15 repetições.
+    Cardio pós-treino:
+        20 minutos de bicicleta, corrida leve, ou elíptico.
+
+Dicas adicionais para Endomorfos:
+    Enfoque em treinos de alta intensidade (como o HIIT e funcional) para maximizar a queima calórica.
+    Manter a frequência cardíaca elevada durante os treinos com intervalos curtos de descanso.
+    Acompanhar a dieta com foco em déficit calórico para auxiliar na perda de peso.
+
+Essa rotina é ideal para melhorar a condição física, queimar gordura e aumentar a resistência, respeitando a preferência por treinos funcionais, cardio e HIIT.
+
+**Você disse:** Obrigado!
+**O ChatGPT disse:** De nada, Martinson! Se precisar de mais ajuda com treinos ou qualquer outro assunto, é só avisar. Bons treinos! 💪 
+
+---
+
+Utilizei as dicas dadas durante o curso e uso uma linguagem mais intimista com o ChatGPT durante as minhas interações com a ferramenta, isso me passa um sentimento de colaboração mais amigável durante as minhas consultas iterativas.
